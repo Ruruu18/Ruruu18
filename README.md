@@ -29,13 +29,22 @@ I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,django" alt="Backend stack" />
 
 **Mobile**
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift" alt="Mobile stack" /> <sub>+ React Native</sub>
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift" alt="Mobile stack" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 
 **Database & AI**
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,py" alt="Database and AI stack" /> <sub>+ Hugging Face, Ollama, OpenAI API</sub>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,py" alt="Database and AI stack" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
 
 **Tools & DevOps**
-<img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker,figma" alt="Tools stack" /> <sub>+ n8n, Zapier</sub>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker,figma" alt="Tools stack" />
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 
 <br/>
 
