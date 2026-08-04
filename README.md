@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://placehold.co/140x140/1B4332/FFFFFF?text=Photo" width="140" alt="Profile photo placeholder"/>
+<img src="assets/profile.png" width="220" alt="Mhar Jade"/>
 
 <br/>
 
@@ -34,11 +34,11 @@ I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,html,css,tailwind" alt="Frontend stack" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,django" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,django,golang" alt="Backend stack" />
 
 **Mobile**
 
@@ -47,14 +47,15 @@ I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since
 
 **Database & AI**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,py" alt="Database and AI stack" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,mongodb,firebase,py" alt="Database and AI stack" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/AI_Agents-2ED573?style=for-the-badge&logoColor=white" alt="AI Agents"/>
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker,figma" alt="Tools stack" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,docker,vercel,railway,figma" alt="Tools stack" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 
