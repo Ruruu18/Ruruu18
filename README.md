@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" width="220" alt="Mhar Jade"/>
+<img src="profile.png" width="100%" alt="Mhar Jade"/>
 
 <br/>
 
