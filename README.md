@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/Ruruu18.png" width="140" alt="Mhar Jade Enario"/>
+<img src="https://placehold.co/140x140/1B4332/FFFFFF?text=Photo" width="140" alt="Profile photo placeholder"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1B4332,100:2ED573&height=170&section=header&text=Hi%2C%20I%27m%20Mhar%20Jade%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&fontFamily=Poppins&desc=Full-Stack%20Software%20Developer&descAlignY=68" alt="Hi, I'm Mhar Jade" width="600"/>
+<br/>
+
+---
+
+# Hi, I'm Mhar Jade <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="waving hand"/>
+
+### Building web, mobile, and AI-powered tools that make everyday life a little easier
 
 <img src="https://komarev.com/ghpvc/?username=Ruruu18&color=2ED573&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
@@ -10,19 +16,21 @@
 
 <br/>
 
-### 👋 About Me
+### About Me
 
 I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since 2022 I've shipped **10 production systems** for universities, local government units, and small businesses — while finishing my BSIT degree (graduating 2026).
 
-- 🤖 Most recently built **CharlieBot**, an AI citizen-assistance chatbot fine-tuned for **Surigaonon**, a low-resource Philippine language — deployed as a full RAG system for a local government client
-- 🛠️ Full-stack across frontend (React, Vue), backend (Node.js, Laravel, Django), and mobile (Flutter, React Native)
-- ⚙️ Also work in applied AI & automation — RAG pipelines, Hugging Face, n8n workflows
-- 🎓 BSIT, Surigao del Norte State University (2021–2026)
-- 📜 Certified: *Claude Code in Action* — Anthropic Education (2026)
+- <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%232ED573" width="18" height="18" style="vertical-align:middle"/> Most recently built **CharlieBot**, an AI citizen-assistance chatbot fine-tuned for **Surigaonon**, a low-resource Philippine language — deployed as a full RAG system for a local government client
+- <img src="https://api.iconify.design/mdi/tools.svg?color=%232ED573" width="18" height="18" style="vertical-align:middle"/> Full-stack across frontend (React, Vue), backend (Node.js, Laravel, Django), and mobile (Flutter, React Native)
+- <img src="https://api.iconify.design/mdi/cog-outline.svg?color=%232ED573" width="18" height="18" style="vertical-align:middle"/> Also work in applied AI & automation — RAG pipelines, Hugging Face, n8n workflows
+- <img src="https://api.iconify.design/mdi/school-outline.svg?color=%232ED573" width="18" height="18" style="vertical-align:middle"/> BSIT, Surigao del Norte State University (2021–2026)
+- <img src="https://api.iconify.design/mdi/certificate-outline.svg?color=%232ED573" width="18" height="18" style="vertical-align:middle"/> Certified: *Claude Code in Action* — Anthropic Education (2026)
 
 <br/>
 
 ### 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -50,37 +58,43 @@ I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 
+</div>
+
 <br/>
 
 ### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/Ruruu18/CharlieBot-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruruu18&repo=CharlieBot-&theme=tokyonight&hide_border=true" alt="CharlieBot repo"/>
-</a>
+<td width="50%" valign="top">
+
+**[CharlieBot](https://github.com/Ruruu18/CharlieBot-)**
+<br/>
 <sub>AI citizen-assistance chatbot for a low-resource Philippine language. Deployed to 600+ citizens across 35 departments and 21 LGU services at 97% response accuracy.</sub>
+
 </td>
-<td width="50%">
-<a href="https://github.com/Ruruu18/Smart-Parking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruruu18&repo=Smart-Parking&theme=tokyonight&hide_border=true" alt="Smart Parking repo"/>
-</a>
+<td width="50%" valign="top">
+
+**[Smart Parking](https://github.com/Ruruu18/Smart-Parking)**
+<br/>
 <sub>QR-based smart parking system with a real-time dashboard. Cut entry/exit time by 70% and replaced four hours of daily paperwork with a 10-minute review.</sub>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/Ruruu18/snsu-ireserve-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruruu18&repo=snsu-ireserve-management-system&theme=tokyonight&hide_border=true" alt="SNSU iReserve repo"/>
-</a>
+<td width="50%" valign="top">
+
+**[SNSU iReserve](https://github.com/Ruruu18/snsu-ireserve-management-system)**
+<br/>
 <sub>Facility & equipment scheduling system with conflict detection and multi-level approvals — cut approval time from three days to under four hours.</sub>
+
 </td>
-<td width="50%">
-<a href="https://github.com/Ruruu18/Luna-Certsys">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruruu18&repo=Luna-Certsys&theme=tokyonight&hide_border=true" alt="Luna Certsys repo"/>
-</a>
+<td width="50%" valign="top">
+
+**[Luna Certsys](https://github.com/Ruruu18/Luna-Certsys)**
+<br/>
 <sub>Certification request system built for streamlined document processing and approvals.</sub>
+
 </td>
 </tr>
 </table>
