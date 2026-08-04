@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2ED573&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mhar+Jade+%F0%9F%91%8B;Full-Stack+Software+Developer;Builder+of+CharlieBot+%F0%9F%A4%96;React+%7C+Laravel+%7C+Flutter+%7C+RAG" alt="Typing SVG" />
+<img src="https://github.com/Ruruu18.png" width="140" alt="Mhar Jade Enario"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1B4332,100:2ED573&height=170&section=header&text=Hi%2C%20I%27m%20Mhar%20Jade%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&fontFamily=Poppins&desc=Full-Stack%20Software%20Developer&descAlignY=68" alt="Hi, I'm Mhar Jade" width="600"/>
 
 <img src="https://komarev.com/ghpvc/?username=Ruruu18&color=2ED573&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
@@ -23,26 +25,28 @@ I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since
 ### 🛠️ Tech Stack
 
 **Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,vue,ts,js" alt="Frontend stack" />
 
 **Backend**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,django" alt="Backend stack" />
 
 **Mobile**
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,swift" alt="Mobile stack" />
-<br/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 
 **Database & AI**
+
 <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,py" alt="Database and AI stack" />
-<br/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
 
 **Tools & DevOps**
+
 <img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker,figma" alt="Tools stack" />
-<br/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 
@@ -80,19 +84,6 @@ I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since
 </td>
 </tr>
 </table>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruruu18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruruu18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ruruu18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</div>
 
 <br/>
 
