@@ -91,7 +91,7 @@ I'm a full-stack developer based in Tubod, Surigao del Norte, Philippines. Since
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruruu18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ruruu18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
 <br/>
